@@ -12,7 +12,7 @@ import numpy as np;
 from scipy.stats import sem
 import matplotlib.pyplot as plt;
 from matplotlib.lines import Line2D
-from itertools import  zip_longest
+from itertools import  zip_longest, islice
 
 
 
